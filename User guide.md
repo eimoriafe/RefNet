@@ -13,6 +13,9 @@
 This guide provides step-by-step instructions for end users — including **Medical Staff**, **Unit Focals**, **Program Managers**, and **Finance Officers** — to perform their assigned tasks within RefNet.
 
 ---
+<img width="1121" height="559" alt="image" src="https://github.com/user-attachments/assets/404b4407-1219-4853-8bbf-6d094f09adbb" />
+
+
 
 ## 2. Access and Authentication  
 

@@ -1,10 +1,21 @@
 # RefNet
 A secure system that automates medical referral, approval, and payment workflows for migrant returnees.
+# Core Process Pages
+## Login Page
+<img width="975" height="338" alt="image" src="https://github.com/user-attachments/assets/65827af6-334d-40c6-abf2-4155ca6915ed" />
 
-<img width="958" height="563" alt="image" src="https://github.com/user-attachments/assets/087bbf7e-a534-47ea-b61b-baf2b156a765" />
+## New referral Initiation Page
+<img width="975" height="637" alt="image" src="https://github.com/user-attachments/assets/563ceacf-ccde-4e0f-b128-ef0eb96277a1" />
 
-<img width="992" height="517" alt="image" src="https://github.com/user-attachments/assets/e734a7f3-37a2-4854-9471-6e77d71ca1c1" />
+## Existing approval pool Page
+<img width="975" height="447" alt="image" src="https://github.com/user-attachments/assets/9db4b27d-d781-40fa-a35c-5b421dfc1654" />
 
-<img width="865" height="502" alt="image" src="https://github.com/user-attachments/assets/3a391e21-9911-4b3e-8f69-b80db0e2b164" />
+## Default user page
+<img width="975" height="493" alt="image" src="https://github.com/user-attachments/assets/543c665c-1182-4412-a497-de57e11fe502" />
 
-<img width="923" height="569" alt="image" src="https://github.com/user-attachments/assets/0fa9356f-7f13-4535-a69a-5fb8a5e87624" />
+## Approval status Page 
+<img width="975" height="566" alt="image" src="https://github.com/user-attachments/assets/f5ed8a03-f7cd-4efc-8798-40c2774458eb" />
+
+
+
+
